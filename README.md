@@ -80,3 +80,42 @@ IBM HR Employee Attrition Dataset
 - Research & Development has the highest employee count.
 - Employees aged 26-35 form the largest workforce segment.
 - Attrition analysis helps identify employee retention challenges.
+
+# Task 4 - Business Insights Report (EDA)
+
+## Objective
+
+Perform Exploratory Data Analysis (EDA) on a marketing campaign dataset to identify customer behavior patterns and generate actionable business insights.
+
+## Tools Used
+
+* Python
+* Pandas
+* Matplotlib
+
+## Analysis Performed
+
+* Data Cleaning
+* Missing Value Analysis
+* Income Distribution Analysis
+* Education Level Analysis
+* Marital Status Analysis
+* Purchase Behavior Analysis
+
+## Key Insights
+
+* Customers with higher income tend to make more purchases.
+* Web and catalog purchases contribute significantly to total sales.
+* Certain customer segments show stronger engagement with marketing campaigns.
+* Customer demographics influence purchasing behavior.
+
+## Recommendations
+
+* Focus marketing efforts on high-engagement customer segments.
+* Increase personalized campaigns for higher-income customers.
+* Improve digital marketing channels to boost online purchases.
+
+## Conclusion
+
+EDA helped identify important customer trends and provided recommendations to improve campaign effectiveness and return on investment (ROI).
+
